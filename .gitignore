@@ -1,0 +1,12 @@
+__pycache__/
+.venv/
+data/
+.DS_Store
+.python-version
+outputs/
+.pytest_cache/
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz

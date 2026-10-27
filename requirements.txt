@@ -1,3 +1,6 @@
+matplotlib
+networkx
 numpy
+pillow
 torch
 torchvision
